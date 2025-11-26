@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "Português",
+    "descricao": "Estudo da língua materna, abrangendo gramática, ortografia, interpretação de textos e desenvolvimento da capacidade de comunicação escrita e oral.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa",
+    "tags": [
+      "Gramática",
+      "Interpretação Textual",
+      "Sintaxe",
+      "Morfologia"
+    ]
+  },
+  {
+    "nome": "Matemática",
+    "descricao": "Ciência que estuda relações quantitativas e padrões, essencial para o desenvolvimento do raciocínio lógico e resolução de problemas abstratos.",
+    "area_conhecimento": "Ciências Exatas",
+    "link": "https://pt.wikipedia.org/wiki/Matem%C3%A1tica",
+    "tags": [
+      "Álgebra",
+      "Geometria",
+      "Cálculo",
+      "Probabilidade",
+      "Lógica"
+    ]
+  },
+  {
+    "nome": "História",
+    "descricao": "Análise crítica dos eventos passados, investigando as transformações sociais, políticas e culturais das civilizações humanas ao longo do tempo.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria",
+    "tags": [
+      "Cronologia",
+      "Análise Documental",
+      "Civilizações",
+      "Processos Históricos"
+    ]
+  },
+  {
+    "nome": "Geografia",
+    "descricao": "Estudo do espaço terrestre, incluindo a relação entre os fenômenos naturais e as atividades humanas, e a distribuição dos elementos na superfície.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Geografia",
+    "tags": [
+      "Cartografia",
+      "Clima",
+      "Relevo",
+      "Demografia"
+    ]
+  },
+  {
+    "nome": "Biologia",
+    "descricao": "Estudo da vida, dos organismos vivos, suas estruturas, funções, evolução, interações e distribuição nos ecossistemas.",
+    "area_conhecimento": "Ciências da Natureza",
+    "link": "https://pt.wikipedia.org/wiki/Biologia",
+    "tags": [
+      "Genética",
+      "Ecologia",
+      "Citologia",
+      "Evolução"
+    ]
+  },
+  {
+    "nome": "Física",
+    "descricao": "Ciência que investiga a matéria, a energia, o espaço e o tempo, buscando entender as leis fundamentais do universo.",
+    "area_conhecimento": "Ciências da Natureza",
+    "link": "https://pt.wikipedia.org/wiki/F%C3%ADsica",
+    "tags": [
+      "Mecânica",
+      "Eletricidade",
+      "Termodinâmica",
+      "Óptica"
+    ]
+  },
+  {
+    "nome": "Química",
+    "descricao": "Estudo da composição, estrutura, propriedades e transformações da matéria e das reações que ocorrem entre as substâncias.",
+    "area_conhecimento": "Ciências da Natureza",
+    "link": "https://pt.wikipedia.org/wiki/Qu%C3%ADmica",
+    "tags": [
+      "Tabela Periódica",
+      "Ligações Químicas",
+      "Estequiometria",
+      "Reações Químicas"
+    ]
+  },
+  {
+    "nome": "Inglês",
+    "descricao": "Aprendizagem da língua inglesa, fundamental para a comunicação global, acesso a informações técnicas e desenvolvimento profissional.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa",
+    "tags": [
+      "Vocabulário",
+      "Gramática",
+      "Compreensão Oral",
+      "Cultura Anglo-Saxã"
+    ]
+  },
+  {
+    "nome": "Espanhol",
+    "descricao": "Estudo da língua e culturas hispânicas, focando em vocabulário, estruturas gramaticais e aprimoramento da fluência comunicativa.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/L%C3%ADngua_espanhola",
+    "tags": [
+      "Fonética",
+      "Conjugação Verbal",
+      "Cultura Hispânica",
+      "Diálogo Formal"
+    ]
+  },
+  {
+    "nome": "Literatura",
+    "descricao": "Análise de obras escritas, explorando estilos, gêneros, movimentos literários e o contexto social e cultural de sua produção.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/Literatura",
+    "tags": [
+      "Gêneros Literários",
+      "Análise Poética",
+      "Movimentos Artísticos",
+      "Figuras de Linguagem"
+    ]
+  },
+  {
+    "nome": "Sociologia",
+    "descricao": "Estudo científico da sociedade, das relações sociais, dos grupos, das instituições e dos processos que moldam a vida social humana.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Sociologia",
+    "tags": [
+      "Estratificação Social",
+      "Instituições",
+      "Cultura",
+      "Interação Social"
+    ]
+  },
+  {
+    "nome": "Filosofia",
+    "descricao": "Investigação crítica sobre a natureza do conhecimento, da realidade, da existência, da moral e dos valores, estimulando o pensamento abstrato.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Filosofia",
+    "tags": [
+      "Ética",
+      "Metafísica",
+      "Lógica",
+      "Epistemologia"
+    ]
+  },
+  {
+    "nome": "Educação Física",
+    "descricao": "Desenvolvimento da cultura corporal de movimento, promovendo saúde, bem-estar e o conhecimento sobre o corpo e práticas esportivas.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_f%C3%ADsica",
+    "tags": [
+      "Condicionamento Físico",
+      "Esportes Coletivos",
+      "Anatomia",
+      "Saúde"
+    ]
+  },
+  {
+    "nome": "Artes Visuais",
+    "descricao": "Exploração das formas de expressão estética por meio de mídias visuais, compreendendo a história, teoria e técnicas artísticas.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/Artes_visuais",
+    "tags": [
+      "Estética",
+      "História da Arte",
+      "Técnicas de Pintura",
+      "Desenho"
+    ]
+  },
+  {
+    "nome": "Redação",
+    "descricao": "Disciplina focada no desenvolvimento da escrita clara, coesa e argumentativa, essencial para a comunicação eficaz em diversos formatos textuais.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/Reda%C3%A7%C3%A3o",
+    "tags": [
+      "Coerência Textual",
+      "Argumentação",
+      "Tipos de Dissertação",
+      "Coesão"
+    ]
+  },
+  {
+    "nome": "Economia",
+    "descricao": "Estudo de como as sociedades utilizam recursos escassos para produzir bens, distribuí-los e consumi-los, analisando sistemas financeiros e mercados.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Economia",
+    "tags": [
+      "Macroeconomia",
+      "Microeconomia",
+      "Mercado",
+      "Oferta e Demanda"
+    ]
+  },
+  {
+    "nome": "Programação (Conceitos Básicos)",
+    "descricao": "Introdução aos fundamentos da criação de software, focando em como estruturar o pensamento lógico para resolver problemas computacionais.",
+    "area_conhecimento": "Ciências Exatas",
+    "link": "https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o",
+    "tags": [
+      "Algoritmos",
+      "Estrutura de Dados",
+      "Lógica de Programação",
+      "Variáveis"
+    ]
+  },
+  {
+    "nome": "Estatística",
+    "descricao": "Disciplina que coleta, organiza, analisa e interpreta dados para inferir conclusões sobre populações ou fenômenos, sendo crucial para a pesquisa.",
+    "area_conhecimento": "Ciências Exatas",
+    "link": "https://pt.wikipedia.org/wiki/Estat%C3%ADstica",
+    "tags": [
+      "Probabilidade",
+      "Amostragem",
+      "Análise de Dados",
+      "Regressão"
+    ]
+  },
+  {
+    "nome": "Astronomia",
+    "descricao": "Estudo dos corpos celestes, do universo em sua totalidade, sua origem, evolução e composição, utilizando princípios da física e matemática.",
+    "area_conhecimento": "Ciências da Natureza",
+    "link": "https://pt.wikipedia.org/wiki/Astronomia",
+    "tags": [
+      "Astrofísica",
+      "Sistema Solar",
+      "Galáxias",
+      "Cosmologia"
+    ]
+  },
+  {
+    "nome": "Geologia",
+    "descricao": "Estudo da Terra, sua estrutura interna, composição, história e dos processos físicos e químicos que a transformaram ao longo do tempo geológico.",
+    "area_conhecimento": "Ciências da Natureza",
+    "link": "https://pt.wikipedia.org/wiki/Geologia",
+    "tags": [
+      "Rochas",
+      "Placas Tectônicas",
+      "Tempo Geológico",
+      "Minerais"
+    ]
+  },
+  {
+    "nome": "Educação Financeira",
+    "descricao": "Ensino de habilidades para gestão de recursos pessoais, planejamento financeiro, orçamento e tomada de decisões informadas sobre dinheiro.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_financeira",
+    "tags": [
+      "Investimento",
+      "Orçamento Pessoal",
+      "Juros Compostos",
+      "Renda Fixa"
+    ]
+  },
+  {
+    "nome": "Cidadania e Ética",
+    "descricao": "Formação moral e cívica, abordando direitos, deveres, valores éticos e o papel do indivíduo na construção de uma sociedade justa e democrática.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Cidadania",
+    "tags": [
+      "Direitos Humanos",
+      "Deveres Cívicos",
+      "Moralidade",
+      "Constituição"
+    ]
+  },
+  {
+    "nome": "Música",
+    "descricao": "Estudo da arte de organizar sons, abrangendo teoria musical, história, prática instrumental e vocal, e apreciação cultural.",
+    "area_conhecimento": "Linguagens",
+    "link": "https://pt.wikipedia.org/wiki/M%C3%BAsica",
+    "tags": [
+      "Teoria Musical",
+      "Harmonia",
+      "Ritmo",
+      "História da Música"
+    ]
+  },
+  {
+    "nome": "Desenho Geométrico",
+    "descricao": "Aplicação de princípios da geometria para a representação gráfica de formas e espaços, fundamental no desenho técnico e arquitetura.",
+    "area_conhecimento": "Ciências Exatas",
+    "link": "https://pt.wikipedia.org/wiki/Desenho_geom%C3%A9trico",
+    "tags": [
+      "Projeções Ortogonais",
+      "Perspectiva",
+      "Construções Gráficas",
+      "Desenho Técnico"
+    ]
+  },
+  {
+    "nome": "Empreendedorismo",
+    "descricao": "Desenvolvimento de mentalidade inovadora, capacidade de identificar oportunidades, criar e gerenciar projetos e negócios com visão estratégica.",
+    "area_conhecimento": "Ciências Humanas",
+    "link": "https://pt.wikipedia.org/wiki/Empreendedorismo",
+    "tags": [
+      "Inovação",
+      "Plano de Negócios",
+      "Gestão de Riscos",
+      "Liderança"
+    ]
+  }
+]
