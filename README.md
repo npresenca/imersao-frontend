@@ -4,7 +4,7 @@ Este projeto foi desenvolvido em um evento remoto da Alura com a Google unindo d
 ## 🔨 Funcionalidades
 
 - Buscador de palavras-chave
-- Hiper links "Github/Alura"
+- Hyperlinks "Github/Alura"
 - "Saiba Mais" para saber mais informações sobre a disciplina.
 
 ## 🔨 Tecnologias Utilizadas
